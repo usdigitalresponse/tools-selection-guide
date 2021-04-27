@@ -6,8 +6,6 @@ description: >-
 
 # Introduction
 
-
-
 **Brief overview of USDR value proposition and what this guide offers, to whom. Value prop: Low code, low cost, fast delivery, tech knowledge, agile and human -centered processes. \(interject throughout the playbook\)- check Notion messaging on USDR**  
 
 
