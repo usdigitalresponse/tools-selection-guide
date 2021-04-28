@@ -9,7 +9,7 @@
 * [Tool Requirements](commercial-tool/tool-requirements.md)
 * [Scalability](commercial-tool/scalability.md)
 * [Procurement](commercial-tool/procurement.md)
-* [Vendor](commercial-tool/vendor.md)
+* [Choose a reliable vendor](commercial-tool/vendor.md)
 * [Security](commercial-tool/security.md)
 * [Trial](commercial-tool/trial.md)
 * [Support](commercial-tool/support.md)

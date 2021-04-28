@@ -1,2 +1,2 @@
-# Vendor
+# Choose a reliable vendor
 
