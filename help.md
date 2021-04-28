@@ -1,3 +1,7 @@
+---
+description: Pro-bono advice and implementation services
+---
+
 # Get Help
 
 If you’d like our pro-bono advice or direct implementation services,[ please reach out](https://www.usdigitalresponse.org/request-help/). We'll get back to you within hours.
